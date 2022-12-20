@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iomanip>
 #include "math.h"
 
 using namespace std;
@@ -60,6 +59,6 @@ int main() {
    {
        bi(n,m);
    }
-    cout<<fixed<<setprecision(4)<<bi(n,m)<<endl;
+    cout<< int(x * 10000) / 10000.0 <<endl;
     return 0;
 }
