@@ -59,6 +59,6 @@ int main() {
    {
        bi(n,m);
    }
-    cout<< int(x * 10000) / 10000.0 <<endl;
+    cout<< int(bi(n,m) * 10000) / 10000.0 <<endl;
     return 0;
 }
