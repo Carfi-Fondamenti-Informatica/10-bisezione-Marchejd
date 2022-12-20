@@ -60,6 +60,6 @@ int main() {
    {
        bi(n,m);
    }
-    cout<<"x: "<<fixed<<setprecision(4)<<bi(n,m)<<endl<<"f(x): "<<0<<endl;
+    cout<<fixed<<setprecision(4)<<bi(n,m)<<endl;
     return 0;
 }
